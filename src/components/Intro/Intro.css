@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+.intro-section{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.intro--photo{
+    align-self: center;
+    width: 800px;
+}
+.intro--title{
+    margin-bottom: 16px;
+    font-size: 30px;
+}
+
+.intro--text{
+    margin-top: 0;
+}
