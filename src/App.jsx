@@ -8,12 +8,7 @@ function App() {
   const sampleData = data.map(per => {
     return <Cards 
             key = {per.id}
-            image = {per.coverImg}
-            rating = {per.stats.rating}
-            reviewCount = {per.stats.reviewCount}
-            country = {per.location}
-            title = {per.title}
-            price = {per.price}
+            item = {per}
           />
   })
 
