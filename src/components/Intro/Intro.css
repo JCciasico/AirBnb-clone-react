@@ -7,7 +7,7 @@
 }
 .intro--photo{
     align-self: center;
-    width: 800px;
+    max-width: 1000px;
 }
 .intro--title{
     margin-bottom: 16px;
