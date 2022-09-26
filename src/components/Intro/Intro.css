@@ -12,8 +12,10 @@
 .intro--title{
     margin-bottom: 16px;
     font-size: 30px;
+    padding-left: 20px;
 }
 
 .intro--text{
     margin-top: 0;
+    padding-left: 20px;
 }
